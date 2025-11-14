@@ -1,0 +1,100 @@
+2025-10-19 19:23:22.000 [INFO] com.example.ecommerce - User 2537 successfully logged in.
+2025-10-18 11:23:56.000 [WARN] com.example.ecommerce - Retrying payment for order 20000 due to network issue.
+2025-10-19 07:39:36.000 [INFO] com.example.ecommerce - Fetched 13 products from category 'fashion'.
+2025-10-09 10:15:25.000 [INFO] com.example.ecommerce - Order 80238 placed successfully for user 8877.
+2025-10-13 09:53:05.000 [INFO] com.example.ecommerce - Fetched 29 products from category 'home'.
+2025-10-10 04:05:42.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-11 07:21:20.000 [INFO] com.example.ecommerce - Email confirmation sent to user 4946.
+2025-10-05 16:42:50.000 [INFO] com.example.ecommerce - Fetched 29 products from category 'beauty'.
+2025-10-25 16:40:02.000 [INFO] com.example.ecommerce - Email confirmation sent to user 7650.
+2025-10-16 16:19:42.000 [INFO] com.example.ecommerce - Order 43489 placed successfully for user 9439.
+2025-10-31 02:43:56.000 [INFO] com.example.ecommerce - Payment processed for order 65953, amount $140.07058206648426.
+2025-10-23 14:38:55.000 [WARN] com.example.ecommerce - Retrying payment for order 93492 due to network issue.
+2025-10-14 23:50:19.000 [INFO] com.example.ecommerce - Order 71788 placed successfully for user 9457.
+2025-10-27 15:29:18.000 [WARN] com.example.ecommerce - Retrying payment for order 77266 due to network issue.
+2025-10-10 18:10:36.000 [INFO] com.example.ecommerce - Payment processed for order 27412, amount $280.9389228783968.
+2025-10-13 13:00:15.000 [INFO] com.example.ecommerce - Fetched 13 products from category 'home'.
+2025-10-24 05:45:41.000 [INFO] com.example.ecommerce - Fetched 46 products from category 'electronics'.
+2025-10-20 15:48:49.000 [WARN] com.example.ecommerce - High memory usage detected in OrderService.
+2025-10-01 05:09:16.000 [INFO] com.example.ecommerce - Payment processed for order 90325, amount $29.04102925680794.
+2025-10-14 07:28:11.000 [INFO] com.example.ecommerce - User 9257 successfully logged in.
+2025-10-03 01:13:28.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-28 08:36:35.000 [INFO] com.example.ecommerce - Payment processed for order 89853, amount $123.01297681916814.
+2025-10-14 04:23:34.000 [INFO] com.example.ecommerce - Fetched 34 products from category 'home'.
+2025-10-04 21:39:44.000 [INFO] com.example.ecommerce - Order 67709 placed successfully for user 8664.
+2025-10-17 19:16:22.000 [WARN] com.example.ecommerce - Retrying payment for order 60578 due to network issue.
+2025-10-31 02:26:07.000 [INFO] com.example.ecommerce - Order 48594 placed successfully for user 5867.
+2025-10-22 10:45:38.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-18 10:22:03.000 [INFO] com.example.ecommerce - Payment processed for order 47827, amount $108.83708405631707.
+2025-10-04 00:45:08.000 [INFO] com.example.ecommerce - GET /api/orders/93408 returned 200 in 299 ms.
+2025-10-12 23:37:33.000 [INFO] com.example.ecommerce - Order 66849 placed successfully for user 7982.
+2025-10-24 19:59:32.000 [WARN] com.example.ecommerce - Slow query detected: SELECT * FROM orders WHERE user_id=2646 took 637 ms.
+2025-10-02 14:01:24.000 [WARN] com.example.ecommerce - Cache miss for key 'product_499'.
+2025-10-10 00:17:42.000 [INFO] com.example.ecommerce - Order 41476 placed successfully for user 2502.
+2025-10-08 09:25:27.000 [INFO] com.example.ecommerce - GET /api/orders/34615 returned 200 in 157 ms.
+2025-10-03 13:37:53.000 [INFO] com.example.ecommerce - Email confirmation sent to user 6566.
+2025-10-01 10:57:39.000 [INFO] com.example.ecommerce - GET /api/orders/12054 returned 200 in 256 ms.
+2025-10-01 10:35:16.000 [INFO] com.example.ecommerce - Payment processed for order 79342, amount $295.5096983942396.
+2025-10-03 22:17:40.000 [INFO] com.example.ecommerce - Email confirmation sent to user 8127.
+2025-10-12 01:26:19.000 [INFO] com.example.ecommerce - Email confirmation sent to user 3562.
+2025-10-31 22:57:49.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-30 14:21:46.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-03 17:15:17.000 [INFO] com.example.ecommerce - User 8065 successfully logged in.
+2025-10-02 01:42:19.000 [INFO] com.example.ecommerce - User 9585 successfully logged in.
+2025-10-31 15:43:17.000 [INFO] com.example.ecommerce - GET /api/orders/81794 returned 200 in 269 ms.
+2025-10-30 16:17:45.000 [INFO] com.example.ecommerce - Email confirmation sent to user 2758.
+2025-10-15 22:45:20.000 [INFO] com.example.ecommerce - Order 25071 placed successfully for user 5077.
+2025-10-12 05:44:34.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-05 13:46:43.000 [INFO] com.example.ecommerce - Payment processed for order 41837, amount $476.755904588246.
+2025-10-30 23:43:39.000 [INFO] com.example.ecommerce - Fetched 22 products from category 'books'.
+2025-10-10 16:52:17.000 [INFO] com.example.ecommerce - Payment processed for order 86623, amount $239.73367945947825.
+2025-10-13 16:54:24.000 [INFO] com.example.ecommerce - Email confirmation sent to user 4448.
+2025-10-11 19:04:30.000 [INFO] com.example.ecommerce - Fetched 45 products from category 'home'.
+2025-10-09 00:26:21.000 [WARN] com.example.ecommerce - Retrying payment for order 34473 due to network issue.
+2025-10-04 11:28:51.000 [INFO] com.example.ecommerce - Order 77600 placed successfully for user 5084.
+2025-10-04 05:49:47.000 [INFO] com.example.ecommerce - Order 38397 placed successfully for user 2123.
+2025-10-30 16:57:13.000 [INFO] com.example.ecommerce - Email confirmation sent to user 6239.
+2025-10-09 13:07:53.000 [INFO] com.example.ecommerce - User 1073 successfully logged in.
+2025-10-16 05:29:35.000 [INFO] com.example.ecommerce - Payment processed for order 59793, amount $175.81925713476537.
+2025-10-04 21:34:29.000 [INFO] com.example.ecommerce - GET /api/orders/57655 returned 200 in 331 ms.
+2025-10-31 09:38:03.000 [ERROR] com.example.ecommerce - User 4067 not found in database.
+2025-10-14 08:40:13.000 [INFO] com.example.ecommerce - Email confirmation sent to user 4243.
+2025-10-23 22:16:26.000 [INFO] com.example.ecommerce - Order 10148 placed successfully for user 7637.
+2025-10-07 02:43:57.000 [INFO] com.example.ecommerce - Order 90052 placed successfully for user 7889.
+2025-10-07 05:36:12.000 [WARN] com.example.ecommerce - Deprecated API endpoint /api/v1/cart accessed by user 2012.
+2025-10-17 23:28:22.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-25 09:11:41.000 [INFO] com.example.ecommerce - Email confirmation sent to user 3149.
+2025-10-21 18:31:11.000 [INFO] com.example.ecommerce - GET /api/orders/70090 returned 200 in 299 ms.
+2025-10-17 00:57:55.000 [INFO] com.example.ecommerce - Payment processed for order 56364, amount $351.965013941853.
+2025-10-24 09:17:24.000 [INFO] com.example.ecommerce - Order 47438 placed successfully for user 5572.
+2025-10-01 12:04:40.000 [INFO] com.example.ecommerce - GET /api/orders/11355 returned 200 in 389 ms.
+2025-10-21 22:15:51.000 [INFO] com.example.ecommerce - Email confirmation sent to user 9218.
+2025-10-23 14:18:17.000 [INFO] com.example.ecommerce - User 3221 successfully logged in.
+2025-10-30 10:20:17.000 [INFO] com.example.ecommerce - Payment processed for order 28190, amount $108.90048783407808.
+2025-10-30 22:00:32.000 [INFO] com.example.ecommerce - GET /api/orders/89729 returned 200 in 368 ms.
+2025-10-17 07:52:44.000 [INFO] com.example.ecommerce - Fetched 25 products from category 'fashion'.
+2025-10-01 09:54:34.000 [INFO] com.example.ecommerce - Payment processed for order 36458, amount $396.0529209797266.
+2025-10-07 21:49:23.000 [INFO] com.example.ecommerce - Order 13102 placed successfully for user 8591.
+2025-10-14 06:47:38.000 [INFO] com.example.ecommerce - GET /api/orders/67573 returned 200 in 319 ms.
+2025-10-01 12:29:51.000 [INFO] com.example.ecommerce - User 6483 successfully logged in.
+2025-10-16 08:26:14.000 [INFO] com.example.ecommerce - Order 23777 placed successfully for user 2153.
+2025-10-11 18:45:33.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-28 08:00:29.000 [INFO] com.example.ecommerce - Order 19241 placed successfully for user 7502.
+2025-10-10 10:17:08.000 [INFO] com.example.ecommerce - Fetched 11 products from category 'home'.
+2025-10-04 02:00:20.000 [INFO] com.example.ecommerce - User 6523 successfully logged in.
+2025-10-16 09:56:50.000 [INFO] com.example.ecommerce - Payment processed for order 98902, amount $227.2128378854022.
+2025-10-02 22:56:26.000 [INFO] com.example.ecommerce - GET /api/orders/36426 returned 200 in 143 ms.
+2025-10-06 17:31:52.000 [WARN] com.example.ecommerce - Deprecated API endpoint /api/v1/cart accessed by user 6300.
+2025-10-03 05:22:57.000 [INFO] com.example.ecommerce - Email confirmation sent to user 6918.
+2025-10-10 07:20:44.000 [INFO] com.example.ecommerce - Email confirmation sent to user 5324.
+2025-10-19 00:16:39.000 [INFO] com.example.ecommerce - Payment processed for order 62817, amount $356.50846719242253.
+2025-10-03 00:45:35.000 [WARN] com.example.ecommerce - Retrying payment for order 24677 due to network issue.
+2025-10-03 21:43:00.000 [INFO] com.example.ecommerce - User 3439 successfully logged in.
+2025-10-05 18:11:43.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-27 11:58:31.000 [INFO] com.example.ecommerce - Fetched 45 products from category 'fashion'.
+2025-10-16 00:38:54.000 [INFO] com.example.ecommerce - Order 22133 placed successfully for user 3168.
+2025-10-05 19:10:27.000 [WARN] com.example.ecommerce - High memory usage detected in OrderService.
+2025-10-22 19:37:52.000 [INFO] com.example.ecommerce - Cache refreshed for endpoint /api/products.
+2025-10-07 10:16:30.000 [WARN] com.example.ecommerce - Slow query detected: SELECT * FROM orders WHERE user_id=9495 took 1583 ms.
+2025-10-01 10:21:17.000 [INFO] com.example.ecommerce - GET /api/orders/25580 returned 200 in 206 ms.
+2025-10-10 19:51:04.000 [INFO] com.example.ecommerce - Email confirmation sent to user 8003.
